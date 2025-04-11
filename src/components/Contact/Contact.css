@@ -1,0 +1,49 @@
+.contact-background {
+    background: url('https://images.unsplash.com/photo-1601758123927-1964f6c88c2f?auto=format&fit=crop&w=1350&q=80') no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact-card {
+    background-color: rgba(127, 194, 206, 0.498);
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(130, 70, 70, 0.15);
+    max-width: 500px;
+    width: 100%;
+    color: #333;
+  }
+  
+  .contact-card h2 {
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+  }
+  
+  .description {
+    margin-bottom: 1.5rem;
+    color: #555;
+  }
+  
+  .contact-info {
+    line-height: 1.8;
+  }
+  
+  .contact-info a {
+    color: #ff6f61;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  
+  .business-hours {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
